@@ -207,6 +207,7 @@ header{
 .image{
     margin-top: 10px;
     width: 90%;
+    display: block;
 }
 .footer{
     margin-top: 60px;
@@ -262,6 +263,7 @@ header{
 .image{
     margin-top: 10px;
     width: 90%;
+    display: block;
 }
 .footer{
     margin-top: 60px;
