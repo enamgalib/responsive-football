@@ -124,7 +124,7 @@ header{
     width: 50%;
 }
 .image img{
-    width: 100%;
+    width: 120%;
 }
 /* Match-highlights-end */
 
@@ -202,9 +202,7 @@ header{
 .Match-highlight{
     margin-top: 45px;
     align-items: center;
-    display: grid;
-    grid-template-columns: 1fr;
-    border: 5px solid red;
+    flex-direction: column;
 }
 .image{
     margin-top: 10px;
